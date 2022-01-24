@@ -1,4 +1,4 @@
-# Gatsby Theme Carbon Starter
+# IACS Cloud Pak for Data Managed Service HomePage
 
 ## What is this?
 
